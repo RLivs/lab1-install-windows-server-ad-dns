@@ -40,11 +40,3 @@ All installation steps are documented in the `screenshots/` folder.
 ## 🏁 Result
 
 The VM is now acting as a domain controller and DNS server for the `test.local` domain.
-
----
-
-## ✅ Next Steps (Lab 2 Preview)
-
-- Create Organizational Units (OUs)
-- Add users and groups
-- Apply basic Group Policies
